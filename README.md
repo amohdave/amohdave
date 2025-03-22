@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Dave,I am a passionate JavaScript & Java Spring Boot Developer with expertise in backend development, API design, and full-stack web applications. I specialize in building scalable, secure, and high-performance solutions using modern technologies. Whether you need a robust backend, a REST API, or a full-stack web application, I’m here to help deliver top-notch results. Let’s build something great together!
+## Hi, I'm Dave! 👋
+Software Developer specializing in Java Spring Boot & JavaScript. Passionate about building scalable backends, REST APIs, and full-stack applications.
 
 <!--
 **amohdave/amohdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
